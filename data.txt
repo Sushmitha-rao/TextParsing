@@ -1,0 +1,11 @@
+Name: Mark
+Mariculation Number: 74321
+Course: MSc
+Current Semester: 3
+
+Name: Lucas
+Mariculation Number: 65489
+Course: BSc
+Current Semester: 2
+
+
